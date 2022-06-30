@@ -1,3 +1,5 @@
-My first React-App
+Hi, this is my first React project.
 
-[Click To See](https://languagecardss.netlify.app/)
+
+[You Can Click Here To See](https://languagecardss.netlify.app/)
+![](languagecardss.gif)
